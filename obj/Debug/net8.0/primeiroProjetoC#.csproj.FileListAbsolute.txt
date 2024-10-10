@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\FullStack\back-end\primeiroProjetoC#\primeiroProjetoC#\bin\Debug\net8.0\primeiroProjetoC#.exe
+C:\Users\Gabriel\Desktop\FullStack\back-end\primeiroProjetoC#\primeiroProjetoC#\bin\Debug\net8.0\primeiroProjetoC#.deps.json
+C:\Users\Gabriel\Desktop\FullStack\back-end\primeiroProjetoC#\primeiroProjetoC#\bin\Debug\net8.0\primeiroProjetoC#.runtimeconfig.json
+C:\Users\Gabriel\Desktop\FullStack\back-end\primeiroProjetoC#\primeiroProjetoC#\bin\Debug\net8.0\primeiroProjetoC#.dll
+C:\Users\Gabriel\Desktop\FullStack\back-end\primeiroProjetoC#\primeiroProjetoC#\bin\Debug\net8.0\primeiroProjetoC#.pdb
+C:\Users\Gabriel\Desktop\FullStack\back-end\primeiroProjetoC#\primeiroProjetoC#\obj\Debug\net8.0\primeiroProjetoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\FullStack\back-end\primeiroProjetoC#\primeiroProjetoC#\obj\Debug\net8.0\primeiroProjetoC#.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\FullStack\back-end\primeiroProjetoC#\primeiroProjetoC#\obj\Debug\net8.0\primeiroProjetoC#.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\FullStack\back-end\primeiroProjetoC#\primeiroProjetoC#\obj\Debug\net8.0\primeiroProjetoC#.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\FullStack\back-end\primeiroProjetoC#\primeiroProjetoC#\obj\Debug\net8.0\primeiroProjetoC#.dll
+C:\Users\Gabriel\Desktop\FullStack\back-end\primeiroProjetoC#\primeiroProjetoC#\obj\Debug\net8.0\refint\primeiroProjetoC#.dll
+C:\Users\Gabriel\Desktop\FullStack\back-end\primeiroProjetoC#\primeiroProjetoC#\obj\Debug\net8.0\primeiroProjetoC#.pdb
+C:\Users\Gabriel\Desktop\FullStack\back-end\primeiroProjetoC#\primeiroProjetoC#\obj\Debug\net8.0\primeiroProjetoC#.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\FullStack\back-end\primeiroProjetoC#\primeiroProjetoC#\obj\Debug\net8.0\ref\primeiroProjetoC#.dll
